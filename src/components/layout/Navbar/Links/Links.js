@@ -6,7 +6,7 @@ const links = () => {
       <div className="row w-50 mt-1">
           <div className="col-3">
               <a href="/" className={classes.links}>
-                  LogIn<i class=" fas fa-sign-in-alt" />
+                  LogIn<i className=" fas fa-sign-in-alt" />
               </a>
           </div>
 

@@ -1,0 +1,13 @@
+.offers{
+    color:black;
+    background-color:lightblue;
+    opacity:0.9;
+    font-size:20px;
+    position:absolute;
+    margin: 70px 150px;
+    padding: 10px;
+    font-weight:bold;
+}
+.cdiv{
+    position: relative;
+}
