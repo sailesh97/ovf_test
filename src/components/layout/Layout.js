@@ -5,6 +5,7 @@ import DemoCarousel from "./Carousel/Carousel";
 import Main from './Main/Main';
 import Main2 from "./Main/Main2";
 import Offers from './Offers/Offers';
+import Footer from './Footer/Footer';
 
 const layout = () => {
   return <React.Fragment>
@@ -15,6 +16,7 @@ const layout = () => {
       <Main2 />  
       <Main/>
       <Offers/>
+      <Footer/>
     </React.Fragment>;
 }
 
